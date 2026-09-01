@@ -1,4 +1,4 @@
-# Hi 👋, I'm enmaw
+# I'm enmaw
 
 ### I build the systems, then I find the flaws.
 
